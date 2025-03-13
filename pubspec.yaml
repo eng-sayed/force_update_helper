@@ -9,7 +9,7 @@ platforms:
 
 environment:
   sdk: ">=2.18.5 <3.0.0"
-  flutter: ">=3.22.0"
+  flutter: ">=3.13.5"
 
 dependencies:
   flutter:
